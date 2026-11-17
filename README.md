@@ -3,9 +3,11 @@
 [![Code DOI](https://zenodo.org/badge/DOI/<CODE_DOI>.svg)](https://doi.org/<CODE_DOI>)
 [![Data DOI](https://zenodo.org/badge/DOI/<DATA_DOI>.svg)](https://doi.org/<DATA_DOI>)
 
-This repository contains the R code, protocol records, results tables and figures for the study
-"Beyond Environmental Suitability: A Statistical-Mechanical Framework for Generative Point-Process
-Modelling of Palaeolithic Site-Pattern Formation in Nagpur and Chandrapur Districts, Central India"
+This repository contains the R code for the study
+
+Manuscript Title: Beyond Environmental Suitability: A Statistical-Mechanical Framework for Generative Point-Process
+Modelling of Palaeolithic Site-Pattern Formation in Nagpur and Chandrapur Districts, Central India
+
 Author: Sushant Begade
 
 ## What the study does
