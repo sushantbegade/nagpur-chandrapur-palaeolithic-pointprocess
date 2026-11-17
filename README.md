@@ -1,7 +1,7 @@
 # Generative point-process modelling of Palaeolithic site-pattern formation in Nagpur and Chandrapur districts, Central India
 
-[![Code DOI](https://zenodo.org/badge/DOI/<Script>.svg)](https://doi.org/10.5281/zenodo.24311547)
-[![Data DOI](https://zenodo.org/badge/DOI/<DATASET>.svg)](https://doi.org/<DATA_DOI>)
+[![Code DOI](https://zenodo.org/badge/DOI/Script.svg)](https://doi.org/10.5281/zenodo.24311547)
+[![Data DOI](https://zenodo.org/badge/DOI/DATASET.svg)](https://doi.org/10.5281/zenodo.24311780)
 
 This repository contains the R code for the study
 
