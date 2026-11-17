@@ -31,25 +31,6 @@ claim about past populations is made.
   cannot separate survey and discovery structure, real local clustering and repeated records of one locality.
 These are statistical findings about the recorded pattern. They are not evidence for a behavioural mechanism.
 
-## Protocol and integrity
-The protocol of record is `docs/Research_Design.docx`. Freeze v1 (2026-11-07) fixed inclusion rules, window,
-covariates, scales, summary statistics, simulation design and decision rules before any model was fitted to the
-archaeological data. Every later change or clarification is in `docs/protocol_deviation_log.csv`. Analyses added after
-seeing results (scripts 51-52, 57, 60-63) are labelled exploratory. No site was added, dropped or altered to obtain a
-result. 167 of 197 inclusion decisions are default inclusions that were not individually confirmed (see DATA README).
-
-## Repository layout
-R/                        configuration, frozen parameters, worker and test functions (sourced by scripts)
-<stage>/scripts/NN_*.R    scripts, numbered in execution order; stage folders follow the design (data audit,
-                          window, environment, observation, ..., recovery, generative GOF, validation,
-                          sensitivity, figures, tables, release)
-docs/                     protocol, freeze files, deviation log, manifests, covariate and scenario definitions
-15_tables/outputs/        Tables 1-8 as CSV (generated from saved outputs)
-14_figures/outputs/       Figures 1-11, S1-S5 (PNG, PDF) and the caption draft
-<stage>/outputs/          console reports (*_report.txt) and sessionInfo files for every script
-SCRIPT_INDEX.md           one line per script, with status (final, superseded, invalid part kept for the record)
-package_versions.csv      versions of the key R packages in the analysis environment
-
 ## What is not in this repository
 Large simulation outputs, derived rasters and site tables are in the Zenodo data record (DOI above).
 Third-party source layers (geology, lithology, geomorphology, rivers, DEM, district boundary) are not redistributed;
