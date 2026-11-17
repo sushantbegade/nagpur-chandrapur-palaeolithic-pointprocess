@@ -1,6 +1,6 @@
 # Generative point-process modelling of Palaeolithic site-pattern formation in Nagpur and Chandrapur districts, Central India
 
-[![Code DOI](https://zenodo.org/badge/DOI/<CODE_DOI>.svg)](https://doi.org/<CODE_DOI>)
+[![Code DOI](https://zenodo.org/badge/DOI/<CODE_DOI>.svg)](https://doi.org/10.5281/zenodo.24311547)
 [![Data DOI](https://zenodo.org/badge/DOI/<DATA_DOI>.svg)](https://doi.org/<DATA_DOI>)
 
 This repository contains the R code for the study
@@ -63,5 +63,4 @@ district boundary [SOURCE TO BE CONFIRMED].
 
 ## Known limitations
 GIS-map coordinates (60 sites) have an unknown datum; the DEM product is unknown; the covariates are present-day
-proxies; observation offsets are assumed strengths, not estimates; the unwinsorised-TPI sensitivity was not run
-[DELETE IF RUN]; the recovery study tested Gibbs interaction only up to gamma = 2.5 at one saturation (3).
+proxies; observation offsets are assumed strengths, not estimates; the unwinsorised-TPI sensitivity was not run; the recovery study tested Gibbs interaction only up to gamma = 2.5 at one saturation (3).
